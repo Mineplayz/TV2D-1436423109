@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "The Village Online",
+"productName": "The Village",
 "dataUrl": "bld001.data.unityweb",
 "wasmCodeUrl": "bld001.wasm.code.unityweb",
 "wasmFrameworkUrl": "bld001.wasm.framework.unityweb",
